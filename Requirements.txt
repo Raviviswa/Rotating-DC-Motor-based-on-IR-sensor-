@@ -1,0 +1,6 @@
+1.Raspberry Pi3
+2.male-female Pins
+3.IR sensor
+4.DC Motor
+5.LED (optional)
+6.L293 Driver for Motor 

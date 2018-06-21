@@ -1,0 +1,10 @@
+Step 1: Cnnect one Led pin to PI3 board ( In this program i used 8 pin in board to connect Led)
+Step 2: Connect Motor to L293 driver. Give power supply(5v or 12v) to L293 and give input from board 16 th pin and ground the circuit)
+Step 3: COnnect IR sensor to pin 10 on board 
+
+
+
+---------------------------------------------------------------------------------------------------------------
+         Logic 
+we are checking whether IR is detecting Some objects or not, if it detects something then it will be HIGH and in if condition we are checking if IR is HIGH if it is HIGH then Motor has to rotate ie., We are making it HIGH, Led Aswell.
+ 
